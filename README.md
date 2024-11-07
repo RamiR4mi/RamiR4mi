@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @RamiR4mi
+- Founder of Moroccan Code Together (MCT)
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m a Software Engineering Student
+
+Wanna join a community full of Computer Science Enthusiasts to share, learn knowledge from and Code together?
+Here you go ! thank me later :D
+✨ https://discord.gg/QpgVmcD5d4 ✨
 
 <!---- 📫 How to reach me ...
 - 💞️ I’m looking to collaborate on ...
