@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rami</h1>
+<h3 align="center">Founder of Moroccan Code Together</h3>
 <h3 align="center">Software Engineering Student</h3>
 <h3 align="center">🔭 Join Our Moroccan Community of Programmers - Code Together : ttps://discord.gg/QpgVmcD5d4 ✨</h3>
 
