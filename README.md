@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rami</h1>
 <h3 align="center">Software Engineering Student</h3>
+<h3 align="center">- 🔭 Join Our Moroccan Community of Programmers [Code Together](ttps://discord.gg/QpgVmcD5d4 ✨)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramir4mi&label=Profile%20views&color=0e75b6&style=flat" alt="ramir4mi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramir4mi" alt="ramir4mi" /></a> </p>
 
-- 🔭 Join Our Moroccan Community of Programmers [Code Together](ttps://discord.gg/QpgVmcD5d4 ✨)
 
 - 📫 How to reach me **R.Mazaoui@aui.ma**
 
