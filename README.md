@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rami</h1>
 <h3 align="center">Founder of Moroccan Code Together</h3>
 <h3 align="center">Software Engineering Student</h3>
-<h3 align="center">🔭 Join us on Code Together : ttps://discord.gg/QpgVmcD5d4 ✨</h3>
+<h3 align="center">🔭 Join us on Code Together : https://discord.gg/QpgVmcD5d4 ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramir4mi&label=Profile%20views&color=0e75b6&style=flat" alt="ramir4mi" /> </p>
 
