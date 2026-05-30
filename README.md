@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramir4mi&label=Profile%20views&color=0e75b6&style=flat" alt="ramir4mi" /> </p>
 
-- 🔭 Join us on Code Together : [ttps://discord.gg/QpgVmcD5d4 ✨]
+- 🔭 Join us on Code Together : https://discord.gg/QpgVmcD5d4 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
